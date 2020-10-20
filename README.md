@@ -6,8 +6,8 @@ What the project does
 - Data and code for paper accepted in Ecological Applications: Krishnadas & Osuri 2020
 - DOI: TBD
 
-## Data source: Seed size predicts community composition and carbon storage potential of tree communities in rainforest fragments in India's Western Ghats. 
-## Dryad Digital Repository. doi:/10.5061/dryad.7s7r1
+Data source: Seed size predicts community composition and carbon storage potential of tree communities in rainforest fragments in India's Western Ghats. 
+Dryad Digital Repository. doi:/10.5061/dryad.7s7r1
 
 Title: Environment shapes the spatial organization of tree diversity in fragmented forests across a human-modified landscape
 
